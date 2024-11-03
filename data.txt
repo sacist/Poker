@@ -1,1 +1,0 @@
-mongodb+srv://krokidil345:dunked1488@nftcasinopoker.gcgy6.mongodb.net/?retryWrites=true&w=majority&appName=NFTCASINOPoker
